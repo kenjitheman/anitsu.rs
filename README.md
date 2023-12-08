@@ -1,6 +1,6 @@
 # Aniyomu
 
-## Anime tracking ...
+> A simple CLI tool to interact with the MyAnimeList API
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-## Project structure:
+## Project structure
 
 ```rust
 ```
@@ -18,7 +18,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/aniyomu.git
+git clone https://github.com/kenjitheman/aniyomu
 ```
 
 ## Usage

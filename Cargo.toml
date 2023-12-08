@@ -1,5 +1,9 @@
 [package]
 name = "aniyomu"
+author = "kenjitheman"
+description = "A simple CLI tool to interact with the MyAnimeList API"
+repository = "github.com/kenjitheman/aniyomu"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
