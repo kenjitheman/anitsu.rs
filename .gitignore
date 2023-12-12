@@ -1,5 +1,4 @@
 /target/
-Cargo.lock
 /target/debug/deps/doc/
 .env
 .DS_Store
