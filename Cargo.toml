@@ -1,8 +1,8 @@
 [package]
-name = "aniyomu"
+name = "anitsu"
 author = "kenjitheman"
-description = "A simple CLI tool to interact with the MyAnimeList API"
-repository = "github.com/kenjitheman/aniyomu"
+description = "CLI Anime Scheduler. All from the command line."
+repository = "github.com/kenjitheman/anitsu"
 license = "MIT"
 version = "0.1.0"
 edition = "2021"
