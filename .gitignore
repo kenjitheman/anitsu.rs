@@ -1,1 +1,9 @@
-/target
+/target/
+Cargo.lock
+/target/debug/deps/doc/
+.env
+.DS_Store
+.vscode/
+.idea/
+.rls/
+Cargo.lock
