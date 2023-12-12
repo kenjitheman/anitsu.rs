@@ -13,6 +13,23 @@
 ## Project structure
 
 ```rust
+AniTsu
+│
+├── Cargo.lock
+├── Cargo.toml
+├── LICENSE
+├── README.md
+├── src
+│   ├── cli.rs
+│   ├── fetcher.rs
+│   ├── handlers.rs
+│   ├── lib.rs
+│   ├── main.rs
+│   └── vars.rs
+└── tests
+    ├── fetcher_test.rs
+    ├── handlers_test.rs
+    └── integration_test.rs
 ```
 
 ## Installation
